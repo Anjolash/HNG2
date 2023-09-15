@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import sitelogo from '../../images/tv.png';
-import home from '../../images/home.png';
+import home from '../../images/Home.png';
 import movieProjector from '../../images/MovieProjector.png';
 import tvShow from '../../images/TVShow.png';
 import calendar from '../../images/Calendar.png';
