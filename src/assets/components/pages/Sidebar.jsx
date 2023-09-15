@@ -5,7 +5,7 @@ import home from '../../images/Home.png';
 import movieProjector from '../../images/MovieProjector.png';
 import tvShow from '../../images/TVShow.png';
 import calendar from '../../images/Calendar.png';
-import logout from '../../images/logout.png'
+import logout from '../../images/Logout.png'
 
 export default function Sidebar() {
     return (
